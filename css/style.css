@@ -2624,6 +2624,7 @@
     height: 400px;
 }
 .navbar {
+    box-shadow: 0 2px 4px rgba(6, 17, 118, .08), 0 4px 12px rgba(6, 17, 118, .08);
     padding: 0px;
 }
 .slides-navigation a:hover {
