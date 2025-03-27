@@ -634,11 +634,11 @@
 }
 
 .contact-map {
-    background: #26d48c;
+    background: #97d8ef;
 }
 
 .contact-form {
-    background: #26d48c;
+    background: #97d8ef;
 }
 
 /*** Contact End ***/
@@ -673,5 +673,8 @@
 .main-title {
     font-size: 2rem;
     font-weight: bold;
+}
+.bg-customer-count {
+    background-color: #97d8ef;
 }
 /*** Footer End ***/
