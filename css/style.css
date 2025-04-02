@@ -688,7 +688,7 @@
     background-image: linear-gradient(to right, #fac13b ,  rgba(36,178,226,255));
 }
 .bg-primary3 {
-    background-color: #EED9C4;
+    background-image: linear-gradient(to right, #64b9cc, #006993);
 }
 .bg-primary4 {
     background-color: #DFCBAE;
