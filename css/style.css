@@ -677,4 +677,26 @@
 .bg-customer-count {
     background-color: #97d8ef;
 }
+
+.bg-primary {
+    background-color: rgba(36,178,226,255) !important;
+}
+.bg-primary1 {
+    background-color: #fac13b;
+}
+.bg-primary2 {
+    background-image: linear-gradient(to right, #fac13b ,  rgba(36,178,226,255));
+}
+.bg-primary3 {
+    background-color: #EED9C4;
+}
+.bg-primary4 {
+    background-color: #DFCBAE;
+}
+.navbar-dark .navbar-nav .show>.nav-link, .navbar-dark .navbar-nav .nav-link.active {
+    color: #012179 !important;
+}
+.bg-dark {
+    background-color: #a49681 !important;
+}
 /*** Footer End ***/
