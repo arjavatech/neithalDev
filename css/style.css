@@ -301,7 +301,7 @@
 }
 
 .page-header {
-    background: linear-gradient(rgba(0, 0, 0, .6), rgba(0, 0, 0, .6)), url(../img/banner3.jpg) center center no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, .3), rgba(0, 0, 0, .3)), url(../img/banner5.jpg) center center no-repeat;
     background-size: cover;
 }
 
@@ -697,9 +697,12 @@
     color: #012179 !important;
 }
 .bg-dark {
-    background-color: #a49681 !important;
+    background-color: #fbda96 !important;
 }
 .accordion-body {
     text-align: left;
+}
+.footer-text-light {
+    color: #69696c;
 }
 /*** Footer End ***/
