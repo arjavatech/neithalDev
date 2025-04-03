@@ -699,4 +699,7 @@
 .bg-dark {
     background-color: #a49681 !important;
 }
+.accordion-body {
+    text-align: left;
+}
 /*** Footer End ***/
